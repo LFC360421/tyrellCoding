@@ -8,7 +8,11 @@ public interface ITestService {
     void wywLoginService();
 
     void aaloginService();
+
     void sssLoginService();
+
+    void  bbservice();
+
 
 
 
