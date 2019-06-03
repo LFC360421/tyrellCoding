@@ -15,6 +15,8 @@ public interface ITestService {
 
     void shiyiservice();
 
+    void shiyitryagainservice();
+
 
 
 
