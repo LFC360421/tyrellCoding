@@ -13,6 +13,8 @@ public interface ITestService {
 
     void  bbservice();
 
+    void shiyiservice();
+
 
 
 
